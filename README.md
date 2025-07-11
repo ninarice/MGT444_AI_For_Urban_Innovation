@@ -1,0 +1,1 @@
+This repo contains a pitch project for the UC San Diego course Business Strategy: Leveraging AI for Urban Innovation (MGT 444). In this presentation, I pitched the idea of utilizing AI in publicly funded mental health kiosks that could be installed in either urban areas or locations with limited access to psychological services. 
